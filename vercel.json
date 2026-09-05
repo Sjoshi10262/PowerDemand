@@ -1,5 +1,6 @@
 {
-  "outputDirectory": "electricity-demand/frontend/dist",
+  "buildCommand": "cd electricity-demand/frontend 2>/dev/null || cd .; npm install && npm run build",
+  "outputDirectory": "dist",
   "rewrites": [
     {
       "source": "/(.*)",
