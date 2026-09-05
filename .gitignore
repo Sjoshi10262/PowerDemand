@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+catboost_info/
+.ipynb_checkpoints/
+
+# Frontend build outputs
+dist/
+build/
+
+# Environment files & IDE settings
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store
