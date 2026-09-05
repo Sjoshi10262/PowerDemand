@@ -76,8 +76,8 @@ A machine learning-powered web platform designed to forecast 24-hour electricity
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Sjoshi10262/Delhi-Electricity-Demand-Prediction.git
-cd Delhi-Electricity-Demand-Prediction
+git clone https://github.com/Sjoshi10262/PowerDemand.git
+cd PowerDemand
 ```
 
 ### 2. Run Backend (Flask API)
