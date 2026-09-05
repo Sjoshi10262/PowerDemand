@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build --prefix electricity-demand/frontend",
+  "outputDirectory": "electricity-demand/frontend/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

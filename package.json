@@ -1,0 +1,7 @@
+{
+  "name": "powerdemand-root",
+  "private": true,
+  "scripts": {
+    "build": "npm run build --prefix electricity-demand/frontend"
+  }
+}
