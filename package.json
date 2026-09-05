@@ -2,6 +2,6 @@
   "name": "powerdemand-root",
   "private": true,
   "scripts": {
-    "build": "npm run build --prefix electricity-demand/frontend"
+    "build": "cd electricity-demand/frontend && npm install && npm run build"
   }
 }
